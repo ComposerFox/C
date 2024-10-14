@@ -1,0 +1,34 @@
+﻿  ex.c
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(7,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(8,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(9,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(13,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(14,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(15,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(17,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Study\WorkSpace\C\ProjectData\ProjectData\ex.c(18,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  ProjectData.vcxproj -> C:\Study\WorkSpace\C\ProjectData\x64\Debug\ProjectData.exe
