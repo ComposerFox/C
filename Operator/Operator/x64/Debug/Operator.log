@@ -1,2 +1,2 @@
-﻿  ex.c
-  Operator.vcxproj -> C:\Study\WorkSpace\C\Operator\x64\Debug\Operator.exe
+﻿ex2.obj : error LNK2005: main이(가) ex.obj에 이미 정의되어 있습니다.
+C:\Study\WorkSpace\C\Operator\x64\Debug\Operator.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

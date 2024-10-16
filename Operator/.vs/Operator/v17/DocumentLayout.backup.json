@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Study\\WorkSpace\\C\\Operator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E9686D4-EFD4-4FFD-BD19-0D034B08DFD2}|Operator\\Operator.vcxproj|C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E9686D4-EFD4-4FFD-BD19-0D034B08DFD2}|Operator\\Operator.vcxproj|solutionrelative:Operator\\ex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E9686D4-EFD4-4FFD-BD19-0D034B08DFD2}|Operator\\Operator.vcxproj|C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1E9686D4-EFD4-4FFD-BD19-0D034B08DFD2}|Operator\\Operator.vcxproj|solutionrelative:Operator\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,19 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ex.c",
               "DocumentMoniker": "C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex.c",
               "RelativeDocumentMoniker": "Operator\\ex.c",
-              "ToolTip": "C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex.c*",
-              "RelativeToolTip": "Operator\\ex.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex.c",
+              "RelativeToolTip": "Operator\\ex.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-16T05:43:23.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2.c",
+              "DocumentMoniker": "C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex2.c",
+              "RelativeDocumentMoniker": "Operator\\ex2.c",
+              "ToolTip": "C:\\Study\\WorkSpace\\C\\Operator\\Operator\\ex2.c",
+              "RelativeToolTip": "Operator\\ex2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T08:43:22.298Z",
               "EditorCaption": ""
             }
           ]
