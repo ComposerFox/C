@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\WorkSpace\\C\\IfPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6D6EE-23D7-456D-AD3D-E5AC0F4E1D31}|IfPrj\\IfPrj.vcxproj|C:\\Study\\WorkSpace\\C\\IfPrj\\IfPrj\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CD6D6EE-23D7-456D-AD3D-E5AC0F4E1D31}|IfPrj\\IfPrj.vcxproj|solutionrelative:IfPrj\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex.c",
+              "DocumentMoniker": "C:\\Study\\WorkSpace\\C\\IfPrj\\IfPrj\\ex.c",
+              "RelativeDocumentMoniker": "IfPrj\\ex.c",
+              "ToolTip": "C:\\Study\\WorkSpace\\C\\IfPrj\\IfPrj\\ex.c",
+              "RelativeToolTip": "IfPrj\\ex.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-18T11:51:39.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
