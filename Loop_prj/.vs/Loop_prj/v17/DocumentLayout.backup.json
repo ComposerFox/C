@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\WorkSpace\\C\\Loop_prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBFE6F5-9652-4CDF-9234-07B34553E1D8}|Loop_prj\\Loop_prj.vcxproj|C:\\Study\\WorkSpace\\C\\Loop_prj\\Loop_prj\\loopEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDBFE6F5-9652-4CDF-9234-07B34553E1D8}|Loop_prj\\Loop_prj.vcxproj|solutionrelative:Loop_prj\\loopEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loopEx.c",
+              "DocumentMoniker": "C:\\Study\\WorkSpace\\C\\Loop_prj\\Loop_prj\\loopEx.c",
+              "RelativeDocumentMoniker": "Loop_prj\\loopEx.c",
+              "ToolTip": "C:\\Study\\WorkSpace\\C\\Loop_prj\\Loop_prj\\loopEx.c",
+              "RelativeToolTip": "Loop_prj\\loopEx.c",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwE4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T09:44:54.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
