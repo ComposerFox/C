@@ -1,0 +1,4 @@
+﻿  ex.c
+C:\Study\WorkSpace\C\StructPrj\StructPrj\ex.c(27,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Study\WorkSpace\C\StructPrj\StructPrj\ex.c(31,35): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StructPrj.vcxproj -> C:\Study\WorkSpace\C\StructPrj\x64\Debug\StructPrj.exe
