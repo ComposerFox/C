@@ -19,6 +19,18 @@ struct point {
 	int x;
 	int y;
 };
+// 공용체 선언
+union example {	// 변수를 여러개 선언해도 4byte 만 메모리에 잡힌다
+	char c;
+	int i;
+	int j;
+	int k;
+};
+// 열거형 선언
+enum days {SUN, MON, TUE, WED, THU, FRI, SAT};	// 열거된 순서대로 값이 정해진다.
+
+int equal(struct student *p3, struct student *p4);
+struct student create();
 
 int main(void)
 {
@@ -55,5 +67,45 @@ int main(void)
 	else
 		printf("다름\n");
 
+
+
+	struct student* p;
+	p = &s1;
+	printf("%d, %s, %.2f\n", (*p).num, (*p).name, (*p).grade);
+	printf("%d, %s, %.2f\n", p->num, p->name, p->grade);
+
+	struct student *p3, *p4;
+	p3 = &s1;
+	p4 = &s2;
+
+	struct student s5 = create();
+	printf("%d, %s, %.2f\n", s5.num, s5.name, s5.grade);
+
+	// 공용체 초기화
+	// 메모리가 같기 때문에 하나씩만 초기화 가능
+	union example e = { 'a' };
+
+	// 열거형 초기화
+	enum days today;
+	today = TUE;
+
 	return 0;
+}
+
+int equal(struct student *p3, struct student *p4)
+{
+	if (p3->num == p4->num)
+		return 1;
+	else
+		return 0;
+}
+
+struct student create() 
+{
+	struct student s;
+	s.num = 3;
+	strcpy(s.name, "kim");
+	s.grade = 3.5;
+
+	return s;
 }
